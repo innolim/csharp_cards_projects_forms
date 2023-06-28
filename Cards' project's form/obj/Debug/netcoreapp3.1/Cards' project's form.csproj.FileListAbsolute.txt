@@ -1,0 +1,17 @@
+C:\Class\COP2360\Cards' project's form\Cards' project's form\bin\Debug\netcoreapp3.1\Cards' project's form.exe
+C:\Class\COP2360\Cards' project's form\Cards' project's form\bin\Debug\netcoreapp3.1\Cards' project's form.deps.json
+C:\Class\COP2360\Cards' project's form\Cards' project's form\bin\Debug\netcoreapp3.1\Cards' project's form.runtimeconfig.json
+C:\Class\COP2360\Cards' project's form\Cards' project's form\bin\Debug\netcoreapp3.1\Cards' project's form.runtimeconfig.dev.json
+C:\Class\COP2360\Cards' project's form\Cards' project's form\bin\Debug\netcoreapp3.1\Cards' project's form.dll
+C:\Class\COP2360\Cards' project's form\Cards' project's form\bin\Debug\netcoreapp3.1\Cards' project's form.pdb
+C:\Class\COP2360\Cards' project's form\Cards' project's form\obj\Debug\netcoreapp3.1\Cards' project's form.csproj.AssemblyReference.cache
+C:\Class\COP2360\Cards' project's form\Cards' project's form\obj\Debug\netcoreapp3.1\Cards__project_s_form.Properties.Resources.resources
+C:\Class\COP2360\Cards' project's form\Cards' project's form\obj\Debug\netcoreapp3.1\Cards' project's form.csproj.GenerateResource.cache
+C:\Class\COP2360\Cards' project's form\Cards' project's form\obj\Debug\netcoreapp3.1\Cards' project's form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Class\COP2360\Cards' project's form\Cards' project's form\obj\Debug\netcoreapp3.1\Cards' project's form.AssemblyInfoInputs.cache
+C:\Class\COP2360\Cards' project's form\Cards' project's form\obj\Debug\netcoreapp3.1\Cards' project's form.AssemblyInfo.cs
+C:\Class\COP2360\Cards' project's form\Cards' project's form\obj\Debug\netcoreapp3.1\Cards' project's form.csproj.CoreCompileInputs.cache
+C:\Class\COP2360\Cards' project's form\Cards' project's form\obj\Debug\netcoreapp3.1\Cards' project's form.dll
+C:\Class\COP2360\Cards' project's form\Cards' project's form\obj\Debug\netcoreapp3.1\Cards' project's form.pdb
+C:\Class\COP2360\Cards' project's form\Cards' project's form\obj\Debug\netcoreapp3.1\Cards' project's form.genruntimeconfig.cache
+C:\Class\COP2360\Cards' project's form\Cards' project's form\obj\Debug\netcoreapp3.1\Cards__project_s_form.Cards.resources
